@@ -1,0 +1,4 @@
+# ignore exe and .idea
+
+*.exe
+/.idea/* 
